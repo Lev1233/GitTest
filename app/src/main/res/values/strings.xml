@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestAppsBuilding</string>
+    <string name="screen_name">Screen1</string>
+    <string name="screen_age">Screen2</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="random_photo">Random photo</string>
+    <string name="screen_profile">Screen3</string>
+    <string name="next_text">Next</string>
+    <string name="name_text">Enter your name</string>
+    <string name="age_text">Enter your age</string>
+    <string name="age_error_text">Enter a valid age without spaces or other characters.</string>
+    <string name="connect_to_internet">Connect to the internet and press "Retry" button to see the image.</string>
+</resources>
